@@ -123,7 +123,7 @@ tbody tr:last-child td:last-child{
 /*Add selectors and rules here*/
 
 tbody tr:hover {
-  background-color: rgb(126,8,37,0.2);
+  background-color: rgb(126,8,37,0.25);
 }
 
 
